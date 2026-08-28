@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
