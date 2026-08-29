@@ -2,35 +2,29 @@ class Solution {
 public:
     int mySqrt(int x) 
     {
-        int last ;
-        int sq_root ;
         if(x==0) return 0 ;
         if(x==1) return 1 ;
 
-        int i=x/2 ;
-        int start ;
-        while(i>0)
+        int low = 1 ;
+        int high = x/2 ;
+
+        while (low<=high)
         {
-            long long sq = 1LL*i*i ;
-            if(sq==x) return i ;
-            else if(sq>x) last=i ;
-            else 
+            int mid = low+(high-low)/2 ;
+            long long sq = 1LL*mid*mid ;
+
+            if(sq==x) return mid ;
+            else if (sq<x)
             {
-                start=i ;
-                break ;
+                low=mid+1 ;
             }
-
-            i=i/2 ;
+            else
+            {
+                high=mid-1 ;
+            }
         }
 
-        for (int j=start ; j<=last ; j++)
-        {
-            long long y = 1LL*j*j ;
-            if(y<=x) sq_root=j ;
-            else break ;
-        }
-
-        return sq_root  ;
+        return high ;    //jb sqaure ki val x se kam aayii tohh meine low ko mid+1 kr diya but usi case me wo sq. x se jyada ho jaata hi .. thats why high ko return krna pdega .. yua fir last mid .. but that last mid is current high 
         
     }
 };
