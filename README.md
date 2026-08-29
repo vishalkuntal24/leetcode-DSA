@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0066-plus-one) |
 ## Simulation
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0135-candy) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
