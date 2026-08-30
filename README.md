@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0135-candy) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
