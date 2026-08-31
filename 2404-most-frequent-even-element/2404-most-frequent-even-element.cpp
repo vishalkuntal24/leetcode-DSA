@@ -13,23 +13,16 @@ public:
             }
         }  
 
-        int count=0 ;
-        for(const auto &[keys,val] : mapp)
+        int max_count=0 ; int element=-1 ;
+        for(const auto &[keys,freq]:mapp)
         {
-            count=max(count,val) ;
-        } 
+            if(freq>max_count)
+            {
+                element=keys ;
+                max_count=freq ;
+            }
+        }
 
-        vector<int>temp ;
-
-        for(const auto &[keys,val]: mapp)
-        {
-            if(val==count) temp.push_back(keys) ;
-        } 
-
-        if(temp.empty()) return -1 ;
-
-        sort(temp.begin(),temp.end()) ;
-
-        return temp[0] ;
+        return element ;
     }
 };
