@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/2404-most-frequent-even-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/2404-most-frequent-even-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Newton's Method
 |  |
 | ------- |
