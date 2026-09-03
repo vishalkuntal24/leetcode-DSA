@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0704-binary-search) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2404-most-frequent-even-element](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/2404-most-frequent-even-element) |
