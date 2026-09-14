@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0836-rectangle-overlap) |
 ## Simulation
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vishalkuntal24/leetcode-DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
